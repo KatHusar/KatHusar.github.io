@@ -3,10 +3,12 @@ title: "Teaching Assistant"
 collection: teaching
 type: "TA exerience"
 permalink: /teaching/TAing
-venue: "Duke University, Ohio State University"
+venue: "Duke University"
+date_start: 2009-10-01
+date_end: 2010-05-15
 ---
 
-Visit for detailded list of courses
+
 
 ### Duke University
 * STA 221: Regression Analysis (Fall 2024, Spring 2025), *Head TA*
