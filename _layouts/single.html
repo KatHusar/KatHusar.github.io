@@ -35,13 +35,41 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p><strong>Date:</strong> {{ page.date.start | date: "%Y-%m-%d" }} – {{ page.date.end | date: "%Y-%m-%d" }}</p>
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.venue and page.date %}
-          <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-        {% elsif page.date %}
-          <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
-        {% endif %}    
+  {% if page.date_start and page.date_end %}
+    <p><strong>Date:</strong> {{ page.date_start | date: "%B %Y" }} – {{ page.date_end | date: "%B %Y" }}</p>
+  {% elsif page.date_start %}
+    <p><strong>Date:</strong> {{ page.date_start | date: "%B %Y" }}</p>
+  {% elsif page.date %}
+    <p><strong>Date:</strong> {{ page.date | date: "%B %Y" }}</p>
+  {% endif %}
+
+  {% if page.type or page.venue %}
+    <p>
+      {% if page.type %}{{ page.type }}{% endif %}
+      {% if page.venue %}, <i>{{ page.venue }}</i>{% endif %}
+      {% if page.date_end %}
+        , {{ page.date_end | date: "%Y" }}
+      {% elsif page.date_start %}
+        , {{ page.date_start | date: "%Y" }}
+      {% elsif page.date %}
+        , {{ page.date | date: "%Y" }}
+      {% endif %}
+    </p>
+  {% endif %}
+{% elsif page.venue and page.date %}
+  <p>Published in <i>{{ page.venue }}</i>, {{ page.date | date: "%Y" }} </p>
+{% elsif page.date %}
+  <p class="page__date">
+    <strong>
+      <i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
+      {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
+    </strong>
+    <time datetime="{{ page.date | date_to_xmlschema }}">
+      {{ page.date | date: "%B %d, %Y" }}
+    </time>
+  </p>
+{% endif %}
+
         </header>
       {% endunless %}
 
