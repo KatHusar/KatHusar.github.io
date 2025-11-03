@@ -4,8 +4,9 @@ collection: teaching
 type: "TA exerience"
 permalink: /teaching/TAing
 venue: "Duke University"
-date_start: 2009-10-01
-date_end: 2010-05-15
+date:
+  start: 2009-10-01
+  end: 2010-05-15
 ---
 
 
