@@ -1,5 +1,5 @@
 ---
-title: "Teaching Assistant"
+title: "Teaching Assistant at OSU"
 collection: teaching
 type: "TA exerience"
 permalink: /teaching/TAingOSU
