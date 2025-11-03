@@ -1,17 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Instructor of Record"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "STA 101: Data Analysis and Statistical Inference"
+permalink: /teaching/sta101_su24
+venue: "Duke University, Department of Statistical Science"
+date: Summer 2024
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Course material is available at [https://sta101-su2024.github.io/](https://sta101-su2024.github.io/)
 
 Heading 1
 ======
+add something later
 
 Heading 2
 ======
