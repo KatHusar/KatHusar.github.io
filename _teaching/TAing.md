@@ -6,6 +6,7 @@ permalink: /teaching/TAing
 venue: "Duke University, Ohio State University"
 ---
 
+Visit for detailded list of courses
 
 ### Duke University
 * STA 221: Regression Analysis (Fall 2024, Spring 2025), *Head TA*
