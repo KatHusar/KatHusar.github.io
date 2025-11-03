@@ -9,7 +9,6 @@ date_end: 2025-12-01
 ---
 
 
-## Duke University
 * STA 221: Regression Analysis: Theory and Application (Fall 2024, Spring 2025), *Head TA*
 * STA 101: Data Analysis and Statistical Inference (Spring 2024), *Head TA*
 * STA 470: Introduction to Statistical Consulting (Fall 2023)
