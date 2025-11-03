@@ -9,11 +9,11 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-## Publications
+## Publications and Preprints
 
 1.
 
 
-## Talks and Workshops
+## Talks and Posters
 
 1. 
