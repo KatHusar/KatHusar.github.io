@@ -5,8 +5,8 @@ type: "TA exerience"
 permalink: /teaching/TAing
 venue: "Duke University"
 date:
-  start: 2022-09-01
-  end: 2025-12-01
+  date_start: 2022-09-01
+  date_end: 2025-12-01
 ---
 
 
