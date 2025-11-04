@@ -45,3 +45,17 @@ The full CV can be found [here]().
     - CSE3241 - Introduction to Database Systems, *The Ohio State University*, *Spring 2020*
     
     
+    
+## Services
+*   **Graduate Consultative Committee (GCC)**, *Duke University,Department of Statistical Science*, *September 2022–Present*
+    - President from September 2024
+    - Collaborate with DGS to manage academic and personal needs of >50 PhD students.
+    - Assist with Admitted Students Open House events to welcome prospective students.
+    - Spearheaded department social and community events such as the Winter Party, Ping-Pong Tournament, and other department gatherings.
+
+*   **Duke Statsci Alumni Advisory Council Member**, *Duke University,Department of Statistical Science*, *September 2025–Present*
+    - Collaborate with alumni to ensure programming meets student needs
+    - Conduct student surveys and analyze feedback
+    - Plan and coordinate networking events
+    
+    
