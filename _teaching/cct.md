@@ -9,3 +9,4 @@ summary: "Certificate in College Teaching, Duke University (Ongoing)"
 
 - Completed Teaching and Observation Requirements.
 - Currently enrolled in GS750: Fundamentals of College Teaching course.
+- Request access to my [Teaching Statement](https://docs.google.com/document/d/10V_l4qi5knxS2cQKT5XSSO0sXZBnfiQE41FPcdlyARo/edit?usp=sharing).
