@@ -5,6 +5,13 @@ collection: portfolio
 ---
 
 
+This project is a **15-minute asynchronous** online lesson designed to introduce fundamental concepts in **Causal Inference** to undergraduate students with no prior coursework.
+Developed as a requirement for the GS750 course (fulfilling [CCT requirements](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/coursework-teaching/)), the lesson focuses on:
+ * Defining Causal Inference and distinguishing between correlation and causation.
+ * Identifying the characteristics and importance of Randomized Experiments.
+ * Executing a basic difference-in-means calculation to estimate treatment effects.
+ * Employing best practices for skimmable, high-impact online content delivery.
+
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1em;">
   <iframe 
     src="https://gs750.github.io/" 
