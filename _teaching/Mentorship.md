@@ -1,8 +1,8 @@
 ---
-title: "Mentorship Roles"
+title: "Mentorship"
 collection: teaching
 order: 4
-summary: "Mentor Experience, Duke University"
+summary: "Project Manager, Duke University"
 summary_list:
   - "Bass Connections: Mental Health and the Justice System in Durham County"
   - "Data+: Exploring Public Opinion and Policy"
