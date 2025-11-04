@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D, Statistical Science, Duke University, 2027 (expected)
+* B.S., Mathematics and Data Analytics, The Ohio State University, 2022
 
 Work experience
 ======
@@ -41,21 +40,16 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
-Publications
+Research
 ======
-  <ul>{% for post in site.publications reversed %}
+  <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching  | sort: "order"  %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
