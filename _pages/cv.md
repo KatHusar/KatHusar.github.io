@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-My full CV can be found [here]().
+My full CV can be found [here](https://drive.google.com/file/d/156z7g6mRM1ND7zPMX_m-OXxZ5MFm7-o9/view?usp=sharing).
 
 ## Education
 * PhD, Duke University, *Expected May 2027*
@@ -14,8 +14,8 @@ My full CV can be found [here]().
   * Mathematics: *Honors Track*, Data Analytics: *Computational Track* 
 
 ## Research Experiences
-*   **Research Assistant**, Duke University,  *Spring 2024–Present*//
-    **Topics:** *Rerandomization with missing data in pre-treatment covariates; Rerandomization in sequential design under budget*//
+*   **Research Assistant**, Duke University,  *Spring 2024–Present* \\
+    **Topics:** *Rerandomization with missing data in pre-treatment covariates; Rerandomization in sequential design under budget*\\
     **Advisor:** Alexander Volfovsky
 
 *   **MARS Project**, Duke University, *Spring 2024*
