@@ -4,36 +4,17 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+---
+layout: archive
+title: "Teaching"
+permalink: /teaching/
+author_profile: true
+---
 
 {% include base_path %}
 
-
-
 {% assign teaching = site.teaching | sort: "order" %}
 
-<ul>
 {% for post in teaching %}
-  <li>
-    <a href="{{ post.url | prepend: base_path }}">{{ post.title }}</a>
-    {% if post.summary %}
-      – {{ post.summary }}
-    {% endif %}
-
-    {% if post.date_start %}
-      {% if post.date_end %}
-        ({{ post.date_start | date: "%b %Y" }} – {{ post.date_end | date: "%b %Y" }})
-      {% else %}
-        ({{ post.date_start | date: "%b %Y" }} – present)
-      {% endif %}
-    {% endif %}
-
-    {% if post.summary_list %}
-      <ul>
-      {% for item in post.summary_list %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-    {% endif %}
-  </li>
+  {% include archive-single.html %}
 {% endfor %}
-</ul>
