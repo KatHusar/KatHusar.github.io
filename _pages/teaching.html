@@ -9,23 +9,32 @@ author_profile: true
 
 {% assign teaching = site.teaching | sort: "order" %}
 
-<ul>
-{% for post in teaching %}
-  <li>
-    <a href="{{ post.url | prepend: base_path }}">{{ post.title }}</a><br>
-    {% if post.summary %}
-      {{ post.summary }}
-    {% endif %}
-    {% if post.summary_list %}
-      <ul>
-      {% for item in post.summary_list %}
-        <li>{{ item }}</li>
-      {% endfor %}
-      </ul>
-    {% endif %}
-    {% if post.link %}
-      <p><a href="{{ post.link }}">Course material</a></p>
-    {% endif %}
-  </li>
-{% endfor %}
-</ul>
+<div class="teaching-list">
+  {% for post in teaching %}
+    <div class="teaching-item">
+      <h2 class="teaching-title">
+        <a href="{{ post.url | prepend: base_path }}">{{ post.title }}</a>
+      </h2>
+
+      {% if post.summary %}
+        <p class="teaching-summary">{{ post.summary }}</p>
+      {% endif %}
+
+      {% if post.date_start %}
+        {% if post.date_end %}
+          <p class="teaching-dates">{{ post.date_start | date: "%Y" }} – {{ post.date_end | date: "%Y" }}</p>
+        {% else %}
+          <p class="teaching-dates">{{ post.date_start | date: "%Y" }} – present</p>
+        {% endif %}
+      {% endif %}
+
+      {% if post.summary_list %}
+        <div class="teaching-courses">
+          {% for item in post.summary_list %}
+            <div class="teaching-course">{{ item }}</div>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  {% endfor %}
+</div>

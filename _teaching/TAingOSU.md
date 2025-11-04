@@ -11,13 +11,13 @@ summary_list:
 ### MATH 1148: College Algebra
 _Spring 2022_
 
-- Led weekly recitation sessions and held office hours.  
+- Led two bi-weekly recitation sessions and held office hours.  
 - Created additional problem sets for review before midterms.
 
 ---
 
 ### MATH 1149: Trigonometry
-_Fall 2019 – Fall 2021_
+_Fall 2019, Fall 2020 – Fall 2021_
 
 - Developed quiz problems and reviewed key trigonometric concepts.  
 - Assisted with grading and student tutoring.
