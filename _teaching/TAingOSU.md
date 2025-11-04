@@ -6,6 +6,7 @@ permalink: /teaching/TAingOSU
 venue: "Ohio State University"
 date_start: 2019-09-01
 date_end: 2022-05-01
+order: 3
 ---
 
 
