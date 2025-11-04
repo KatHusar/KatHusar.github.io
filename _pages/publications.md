@@ -33,7 +33,7 @@ author_profile: true
 
     **Advisor:** Linda J. Allen
 
--   **Knots and Graphs Program**, The Ohio State University,*Summer 2019*, *Summer 2020*
+-   **Knots and Graphs Program**, The Ohio State University, *Summer 2019*, *Summer 2020*
 
     **Topic:** *Signed posets and a B-symmetric generalization of Stanley’s acyclicity theorem*
 

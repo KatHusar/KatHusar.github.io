@@ -14,10 +14,8 @@ My full CV can be found [here]().
   * Mathematics: *Honors Track*, Data Analytics: *Computational Track* 
 
 ## Research Experiences
-*   **Research Assistant**, Duke University,  *Spring 2024–Present*
-
-    **Topics:** *Rerandomization with missing data in pre-treatment covariates; Rerandomization in sequential design under budget*
-    
+*   **Research Assistant**, Duke University,  *Spring 2024–Present*//
+    **Topics:** *Rerandomization with missing data in pre-treatment covariates; Rerandomization in sequential design under budget*//
     **Advisor:** Alexander Volfovsky
 
 *   **MARS Project**, Duke University, *Spring 2024*
