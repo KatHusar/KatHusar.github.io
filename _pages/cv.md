@@ -8,31 +8,31 @@ author_profile: true
 My full CV can be found [here](https://drive.google.com/file/d/156z7g6mRM1ND7zPMX_m-OXxZ5MFm7-o9/view?usp=sharing).
 
 ## Education
-* PhD, Duke University, *Expected May 2027*
-  * Department of Statistical Science
-* BS, The Ohio State University, *May 2022*
-  * Mathematics: *Honors Track*, Data Analytics: *Computational Track* 
+* PhD, Duke University, *Expected May 2027*\\
+   Department of Statistical Science
+* BS, The Ohio State University, *May 2022*\\
+   Mathematics: *Honors Track*, Data Analytics: *Computational Track* 
 
 ## Research Experiences
 *   **Research Assistant**, Duke University,  *Spring 2024–Present* \\
     **Topics:** *Rerandomization with missing data in pre-treatment covariates; Rerandomization in sequential design under budget*\\
     **Advisor:** Alexander Volfovsky
 
-*   **MARS Project**, Duke University, *Spring 2024*
+*   **MARS Project**, Duke University, *Spring 2024*\\
 
-    **Topic:** *Measuring the effect of abortive migraine medication exposure on the risk of retinal stroke*
+    **Topic:** *Measuring the effect of abortive migraine medication exposure on the risk of retinal stroke*\\
     
     **Investigators:** Jay B. Lusk, Brian Mac Grory, Fan Li, Lauren Wilson, Natalie Smith, Alonso M. Guerrero Castañeda, **Kat Husar**
 
-*   **REU Program**, Texas Tech University, *Summer 2021*
+*   **REU Program**, Texas Tech University, *Summer 2021*\\
 
-    **Topic:** *Lyme Disease Models of Tick-Mouse Dynamics with Seasonal Variation in Births, Deaths, and Tick Feeding*
+    **Topic:** *Lyme Disease Models of Tick-Mouse Dynamics with Seasonal Variation in Births, Deaths, and Tick Feeding*\\
     
     **Advisor:** Linda J. Allen
 
-*   **Knots and Graphs Program**, The Ohio State University, *Summer 2019, Summer 2020*
+*   **Knots and Graphs Program**, The Ohio State University, *Summer 2019, Summer 2020*\\
 
-    **Topic:** *Signed posets and a B-symmetric generalization of Stanley’s acyclicity theorem*
+    **Topic:** *Signed posets and a B-symmetric generalization of Stanley’s acyclicity theorem*\\
     
     **Advisor:** Sergei Chmutovheng/), *2019*
  
