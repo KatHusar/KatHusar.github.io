@@ -9,6 +9,23 @@ author_profile: true
 
 {% assign teaching = site.teaching | sort: "order" %}
 
+<ul>
 {% for post in teaching %}
-  {% include archive-single.html %}
+  <li>
+    <a href="{{ post.url | prepend: base_path }}">{{ post.title }}</a><br>
+    {% if post.summary %}
+      {{ post.summary }}
+    {% endif %}
+    {% if post.summary_list %}
+      <ul>
+      {% for item in post.summary_list %}
+        <li>{{ item }}</li>
+      {% endfor %}
+      </ul>
+    {% endif %}
+    {% if post.link %}
+      <p><a href="{{ post.link }}">Course material</a></p>
+    {% endif %}
+  </li>
 {% endfor %}
+</ul>
