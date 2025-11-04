@@ -17,11 +17,11 @@ _Head TA ([Fall 2024]((https://sta221-fa24.netlify.app/)), [Spring 2025](https:/
 
 - Collaborated directly with the lecturer to design, refine, and edit course materials, including challenging homework and lab problems focusing on regression theory and application.
 
-- Developed a comprehensive computational [``review lab"](sta221-sp25.netlify.app/labs/lab-01) to serve as a persistent, reproducible coding reference for all students.
+- Developed a comprehensive computational ["review lab"](sta221-sp25.netlify.app/labs/lab-01) to serve as a persistent, reproducible coding reference for all students.
 
 - Delivered a high-stakes guest lecture on [Logistic Regression](sta221-sp25.netlify.app/slides/19-logistic-regression#/title-slide), demonstrating advanced command of course material.
 
-- Student Feedback: *``Kat is very knowledgeable and knew how to explain questions in a way we could easily understand. She made sure to be patient and encouraged us to understand the process by applying it instead of just memorizing."*
+- Student Feedback: *"Kat is very knowledgeable and knew how to explain questions in a way we could easily understand. She made sure to be patient and encouraged us to understand the process by applying it instead of just memorizing."*
 
 ---
 
@@ -34,7 +34,7 @@ _Head TA (Spring 2024)_
 
 - Delivered two guest lectures covering core statistical lessons for the entire student body.
 
-- Student Feedback: *``She knows her stuff. Was really helpful and was always checking in with us. Explained stuff in ways we could understand. Everything seemed common sense when she explained."*
+- Student Feedback: *"She knows her stuff. Was really helpful and was always checking in with us. Explained stuff in ways we could understand. Everything seemed common sense when she explained."*
 
 ---
 
@@ -54,4 +54,4 @@ _[Fall 2022](https://sta199-f22-2.github.io/)_
 
 - Evaluated student projects and provided detailed guidance on structuring reproducible reporting (using tools like R Markdown/Quarto).
 
-- Student Feedback: *``Kat was great about explaining necessary material that we may not have seen in class while also allowing us to work through problems as a group and not solving problems for us."*
+- Student Feedback: *"Kat was great about explaining necessary material that we may not have seen in class while also allowing us to work through problems as a group and not solving problems for us."*
