@@ -19,21 +19,15 @@ My full CV can be found [here](https://drive.google.com/file/d/156z7g6mRM1ND7zPM
     **Advisor:** Alexander Volfovsky
 
 *   **MARS Project**, Duke University, *Spring 2024*\\
-
     **Topic:** *Measuring the effect of abortive migraine medication exposure on the risk of retinal stroke*\\
-    
     **Investigators:** Jay B. Lusk, Brian Mac Grory, Fan Li, Lauren Wilson, Natalie Smith, Alonso M. Guerrero Castañeda, **Kat Husar**
 
 *   **REU Program**, Texas Tech University, *Summer 2021*\\
-
     **Topic:** *Lyme Disease Models of Tick-Mouse Dynamics with Seasonal Variation in Births, Deaths, and Tick Feeding*\\
-    
     **Advisor:** Linda J. Allen
 
 *   **Knots and Graphs Program**, The Ohio State University, *Summer 2019, Summer 2020*\\
-
     **Topic:** *Signed posets and a B-symmetric generalization of Stanley’s acyclicity theorem*\\
-    
     **Advisor:** Sergei Chmutovheng/), *2019*
  
 ## Teaching
