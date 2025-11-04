@@ -19,12 +19,12 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "CV"
-    url: /cv/
+#  - title: "CV"
+ #   url: /cv/
     
   - title: "Portfolio"
     url: /portfolio/  
     
-   #- title: "CV"
-  #   url: /cv-json/
+   - title: "CV"
+     url: /cv-json/
     
