@@ -8,7 +8,7 @@ summary_list:
   - "Data+: Exploring Public Opinion and Policy"
 ---
 
-### Bass Connections: Mental Health and the Justice System in Durham County
+### [Bass Connections: Mental Health and the Justice System in Durham County](https://bassconnections.duke.edu/project/mental-health-and-justice-system-durham-county-2025-2026/)
 _Fall 2025 - Spring 2026_
 
 - Direct students in incorporating and cleaning messy, real-world data from the  Durham County Detention Facility and Duke Health.

@@ -13,4 +13,4 @@ My primary research interests lie in Causal Inference, specifically focusing on 
 
 Beyond my research, I am enthusiastic about teaching and mentorship. I am committed to making complex statistical concepts accessible and fostering responsible data usage among students.
 
-In my personal time, I enjoy baking treats for department tea time, spending quality time with friends and family, and enjoying the outdoors (provided the mosquitos aren't too enthusiastic!).
+In my personal time, I enjoy baking treats for department tea time, spending quality time with friends and family, and enjoying the outdoors (provided the mosquitos aren't too active!).
