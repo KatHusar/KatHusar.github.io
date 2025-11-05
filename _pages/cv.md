@@ -28,7 +28,7 @@ My full CV can be found [here](https://drive.google.com/file/d/1aTHCbDm6SUVp_vPN
 
 *   **Knots and Graphs Program**, The Ohio State University, *Summer 2019, Summer 2020*\\
     **Topic:** *Signed posets and a B-symmetric generalization of Stanley’s acyclicity theorem*\\
-    **Advisor:** Sergei Chmutovheng/), *2019*
+    **Advisor:** Sergei Chmutov, *2019*
  
 ## Teaching
 
