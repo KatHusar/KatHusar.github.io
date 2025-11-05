@@ -6,7 +6,7 @@ collection: portfolio
 
 You can access my Teaching Statement [here](https://docs.google.com/document/d/10V_l4qi5knxS2cQKT5XSSO0sXZBnfiQE41FPcdlyARo/edit?usp=sharing).
 
-TL;DR:
+### TL;DR:
 
 * **Guiding Goal**: Shift focus from content coverage to developing enduring analytical skills, critical interpretation of evidence, and clear communication.
 * **Student-Centered Approach**: Tailor instruction based on diverse populations (non-majors to statistics majors) by focusing on essential ideas rather than overwhelming material.
