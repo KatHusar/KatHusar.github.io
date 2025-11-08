@@ -12,7 +12,7 @@ summary_list:
 
 ### STA 221: Regression Analysis: Theory and Application
 
-*Head TA ([Fall 2024]((https://sta221-fa24.netlify.app/)), [Spring 2025](https://sta221-sp25.netlify.app/))*
+*Head TA ([Fall 2024](https://sta221-fa24.netlify.app/), [Spring 2025](https://sta221-sp25.netlify.app/))*
 
 -   Directed and managed a team of 4 (Fall 2024)/ 5 (Spring 2025) Teaching Assistants to ensure consistent instruction and grading across all course sections for over 35 (Fall 2024)/ 60 (Spring 2025) students.
 
