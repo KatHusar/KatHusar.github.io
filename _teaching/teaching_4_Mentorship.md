@@ -20,8 +20,8 @@ _Fall 2025 - Spring 2026_
 ### [Data+: Exploring Public Opinion and Policy](https://bigdata.duke.edu/projects/exploring-public-opinion-and-policy/)
 _Summer 2025_
 
-- Guide students in applying techniques from statistic to analyze large-scale election and public opinion data.
-- Supervise the design and execution of "The Survey Navigator," ensuring the interactive platform effectively visualizes and allows users to discover and compare complex public opinion trends.
-- Direct the team's research into the impact of varying question wording on survey responses, translating raw data into clear, user-friendly insights for policymakers and journalists.
-- Manage the technical workflow, goals, and deliverable schedule by leading meetings with three student researchers over the course of the ten-week program.
+- Guided students in applying techniques from statistic to analyze large-scale election and public opinion data.
+- Supervised the design and execution of "The Survey Navigator," ensuring the interactive platform effectively visualizes and allows users to discover and compare complex public opinion trends.
+- Directed the team's research into the impact of varying question wording on survey responses, translating raw data into clear, user-friendly insights for policymakers and journalists.
+- Managed the technical workflow, goals, and deliverable schedule by leading meetings with three student researchers over the course of the ten-week program.
 
