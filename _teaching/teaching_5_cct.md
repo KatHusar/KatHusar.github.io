@@ -1,8 +1,10 @@
 ---
-title: "Certifications"
+title: "Fellowship and Certification"
 collection: teaching
 order: 5
-summary: "Certificate in College Teaching, Duke University (Ongoing)"
+summary_list:
+  - "Teaching on Purpose Fellow"
+  - "Certificate in College Teaching, Duke University (Ongoing)"
 ---
 
 ### [Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/)
