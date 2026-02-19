@@ -44,6 +44,9 @@ My full CV can be found [here](https://drive.google.com/file/d/15n5XPJSHcfcUGyZO
     - MATH1149 - Trigonometry, The Ohio State University, *Fall 2019*, *Fall 2020–Fall 2021*
     - CSE3241 - Introduction to Database Systems, The Ohio State University, *Spring 2020*
     
+*  **Teaching on Purpose Fellowship**
+    - Duke Teaching on Purpose Fellow, *Spring 2026*
+    
     
     
 ## Services
