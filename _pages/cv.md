@@ -38,6 +38,10 @@ My full CV can be found [here](https://drive.google.com/file/d/15n5XPJSHcfcUGyZO
     **Topic:** *Signed posets and a B-symmetric generalization of Stanley’s acyclicity theorem*\\
     **Advisor:** Sergei Chmutov
  
+## Industry Experience
+*   **Research Scientist Intern**, Amazon, *Summer 2026–Present*\\
+    **Team:** *Supply Chain Optimization Technologies (SCOT)*
+
 ## Teaching
 
 *   **Instructor of Record**
@@ -71,6 +75,33 @@ My full CV can be found [here](https://drive.google.com/file/d/15n5XPJSHcfcUGyZO
 
 *   **[Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/) Fellow**, *Spring 2026*
     - Selected as a Fellow for a semester-long program at Duke's Kenan Institute for Ethics on the aims and practice of undergraduate teaching.
+
+## Conference Talks and Posters
+
+*   **ISBA World Meeting**, Poster, *Summer 2026*\\
+    *DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments.*
+
+*   **Electronic Conference on Teaching Statistics (eCOTS)**, Breakout Talk, *Summer 2026*\\
+    *Breaking the Syntax Barrier: Empowering Students to Code in Any Language.*\\
+    with Marie Neubrander
+
+*   **American Causal Inference Conference**, Poster, *Spring 2026*\\
+    *DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments.*
+
+*   **American Causal Inference Conference**, Poster, *Spring 2025*\\
+    *Rerandomization with Missing Data in Pre-Treatment Covariates.*
+
+*   **Duke StatSci Research Alumni Symposium**, Poster, *Fall 2024*\\
+    *Rerandomization and Regression Adjustment in Studies with Missing Values in Pre-Treatment Covariates.*
+
+*   **Society for Mathematical Biology**, Talk, *Summer 2023*\\
+    *Lyme Disease Models of Tick-Mouse Dynamics with Seasonal Variation in Births, Deaths, and Tick Feeding.*
+
+*   **Young Mathematicians Conference**, Talk, *Summer 2021*\\
+    *Lyme Disease Models of Tick-Mouse Dynamics with Seasonal Variation in Births, Deaths, and Tick Feeding.*
+
+*   **Young Mathematicians Conference**, Talk, *Summer 2020*\\
+    *Signed posets and a B-symmetric generalization of Stanley's acyclicity theorem.*
 
 ## Services
 *   **Graduate Consultative Committee (GCC)**, Duke University: Department of Statistical Science, *September 2022–Present*

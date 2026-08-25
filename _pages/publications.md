@@ -19,6 +19,13 @@ author_profile: true
 
 ## Research Experience
 
+-   **Research Scientist Intern**, Amazon, *Summer 2026–Present*\\
+    **Team:** *Supply Chain Optimization Technologies (SCOT)*
+
+    -   Analyzed the production impact of design-stage stratification within the SCOT A/B testing platform to evaluate variance reduction and inform baseline experimental strategies.
+    -   Proposed a novel, easily implementable causal estimator that resolves zero-coverage degradation caused by subgroup unit depletion during concurrent experiments, while maintaining the production baseline under no depletion.
+    -   Built and launched an internal user-interface application that tracks treatment and control arm convergence after experiment rollouts and rollbacks, surfacing resource conflicts and identifying when units can re-enter the sampling pool; now being integrated into the primary experimentation platform.
+
 -   **Research Assistant**, Duke University, *October 2025–Present*\\
     **Topic:** *DARTS: Targeting prognostic covariates in budget-constrained sequential experiments*\\
     **Advisor:** Alexander Volfovsky
