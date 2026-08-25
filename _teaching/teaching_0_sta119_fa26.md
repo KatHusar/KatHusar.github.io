@@ -13,4 +13,4 @@ Co-taught with Alexander Volfovsky.
 - Co-created a first-year seminar that teaches statistical reasoning through its own history, reading Stephen M. Stigler's *The History of Statistics* with 16 first-semester students around a discussion table.
 - Designed the course as a general-education entry point to quantitative work, for students who do not arrive thinking of themselves as quantitative and who bring no prior programming experience.
 - Built weekly labs in which students learn R by reconstructing the historical analyses they have just read, working from the original data toward reproducible reports of their own.
-- Made AI literacy a recurring practice rather than a policy line, giving roughly ten minutes of each lab to responsible use, ethics, and the judgment calls a model makes without saying so.
+- Built AI literacy into the course, giving roughly ten minutes of each lab to responsible practices, ethical questions, and the assumptions behind the answers these tools produce.
