@@ -15,6 +15,16 @@ summary_list:
 
 *Head TA (Spring 2026)*
 
+-   Coordinated the TA team for the course, assigning which TA authored and published each lab, arranging office hour coverage across the week, and distributing grading.
+
+-   Designed in-lab activities connecting lecture theory to practice, including a mock technical interview built on Netflix recommendation data to motivate KNN clustering, and a session in which the class collected data on itself and compared decision stumps to deeper trees to predict whether a given student codes in R or Python.
+
+-   Led weekly labs that built methods up from their foundations and worked through example code live, translating the jargon of lecture into something students could apply.
+
+-   Student Feedback: *"Kat always showed up prepared. Sometimes we had interactive collaborations / activities that really helped us engage with the material."*
+
+-   Student Feedback: *"She helped explain all the complex jargon we see in lectures into practical applicable knowledge in the labs."*
+
 ------------------------------------------------------------------------
 
 ### STA 221: Regression Analysis: Theory and Application
