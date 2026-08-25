@@ -4,11 +4,18 @@ collection: teaching
 order: 2
 summary: "TA experience, Duke University, 2022 – present"
 summary_list:
+  - "STA 561: Probabilistic Machine Learning (Spring 2026), Head TA"
   - "STA 221: Regression Analysis: Theory and Application (Fall 2024, Spring 2025), Head TA"
   - "STA 101: Data Analysis and Statistical Inference (Spring 2024), Head TA"
   - "STA 470: Introduction to Statistical Consulting (Fall 2023)"
   - "STA 199: Introduction to Data Science and Statistical Thinking (Fall 2022)"
 ---
+
+### STA 561: Probabilistic Machine Learning
+
+*Head TA (Spring 2026)*
+
+------------------------------------------------------------------------
 
 ### STA 221: Regression Analysis: Theory and Application
 

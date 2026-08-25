@@ -11,12 +11,18 @@ author_profile: true
 
 -   **Husar, K.**, Pittman, D. C., Rajala, J., Mostafa, F., & Allen, L. J. (2024). Lyme Disease Models of Tick-Mouse Dynamics with Seasonal Variation in Births, Deaths, and Tick Feeding. *Bulletin of Mathematical Biology, 86*(3), 1-38, [Link](https://pubmed.ncbi.nlm.nih.gov/38294562/).
 
+-   **Husar, K.**, & Volfovsky, A. (2026). DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments. *arXiv preprint; under review*. [arXiv](https://arxiv.org/abs/2605.06608).
+
 -   **Husar, K.**, Volfovsky, A. Rerandomization with Missing Data (in preparation).
 
 ## Research Experience
 
+-   **Research Assistant**, Duke University, *October 2025–Present*\\
+    **Topic:** *Budget-constrained sequential design: targeting prognostic covariates when covariate acquisition is costly*\\
+    **Advisor:** Alexander Volfovsky
+
 -   **Research Assistant**, Duke University, *Spring 2024–Present*\\
-    **Topics:** *Rerandomization with missing data in pre-treatment covariates; Rerandomization in sequential design under budget*\\
+    **Topic:** *Rerandomization with missing data in pre-treatment covariates*\\
     **Advisor:** Alexander Volfovsky
 
 -   **MARS Project**, Duke University, *Spring 2024*\\
