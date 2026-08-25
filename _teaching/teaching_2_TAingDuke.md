@@ -15,15 +15,17 @@ summary_list:
 
 *Head TA (Spring 2026)*
 
--   Coordinated the TA team for the course, assigning which TA authored and published each lab, arranging office hour coverage across the week, and distributing grading.
+-   Coordinated teaching assistant operations, managing the development and publication of weekly lab materials, scheduling, and grading logistics.
 
--   Designed in-lab activities connecting lecture theory to practice, including a mock technical interview built on Netflix recommendation data to motivate KNN clustering, and a session in which the class collected data on itself and compared decision stumps to deeper trees to predict whether a given student codes in R or Python.
+-   Engineered engaging, real-world lab activities designed to connect lecture theory to practice. Highlights include designing a mock technical interview centered on Netflix recommendation data to motivate KNN, and a live data-collection activity where students built decision trees to predict peer coding preferences.
 
--   Led weekly labs that built methods up from their foundations and worked through example code live, translating the jargon of lecture into something students could apply.
+-   Facilitated weekly applied lab sessions that built statistical methods from their foundations. Utilized live-coding demonstrations to translate complex lecture jargon into practical, applied knowledge.
 
--   Student Feedback: *"Kat always showed up prepared. Sometimes we had interactive collaborations / activities that really helped us engage with the material."*
+-   Selected Student Feedback:
 
--   Student Feedback: *"She helped explain all the complex jargon we see in lectures into practical applicable knowledge in the labs."*
+    -   *"Kat always showed up prepared. Sometimes we had interactive collaborations / activities that really helped us engage with the material."*
+
+    -   *"She helped explain all the complex jargon we see in lectures into practical applicable knowledge in the labs."*
 
 ------------------------------------------------------------------------
 
