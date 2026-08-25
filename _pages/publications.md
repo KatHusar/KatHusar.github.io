@@ -19,7 +19,7 @@ author_profile: true
 
 ## Research Experience
 
--   **Research Scientist Intern**, Amazon, *Summer 2026–Present*\\
+-   **Research Science Intern**, Amazon, *Summer 2026–Present*\\
     **Team:** *Supply Chain Optimization Technologies (SCOT)*
 
     -   Analyzed the production impact of design-stage stratification within the SCOT A/B testing platform to evaluate variance reduction and inform baseline experimental strategies.

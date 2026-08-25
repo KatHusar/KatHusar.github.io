@@ -39,7 +39,7 @@ My full CV can be found [here](https://drive.google.com/file/d/15n5XPJSHcfcUGyZO
     **Advisor:** Sergei Chmutov
  
 ## Industry Experience
-*   **Research Scientist Intern**, Amazon, *Summer 2026–Present*\\
+*   **Research Science Intern**, Amazon, *Summer 2026–Present*\\
     **Team:** *Supply Chain Optimization Technologies (SCOT)*
 
 ## Teaching
