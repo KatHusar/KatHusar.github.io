@@ -19,7 +19,7 @@ summary_list:
 
 -   Engineered engaging, real-world lab activities designed to connect lecture theory to practice. Highlights include designing a mock technical interview centered on Netflix recommendation data to motivate KNN, and a live data-collection activity where students built decision trees to predict peer coding preferences.
 
--   Facilitated weekly applied lab sessions that built statistical methods from their foundations. Utilized live-coding demonstrations to translate complex lecture jargon into practical, applied knowledge.
+-   Facilitated weekly applied lab sessions that built statistical methods from their foundations. 
 
 -   Selected Student Feedback:
 

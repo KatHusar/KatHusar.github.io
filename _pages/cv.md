@@ -15,15 +15,19 @@ My full CV can be found [here](https://drive.google.com/file/d/15n5XPJSHcfcUGyZO
 
 ## Research Experiences
 *   **Research Assistant**, Duke University, *October 2025–Present*\\
-    **Topic:** *Budget-constrained sequential design: targeting prognostic covariates when covariate acquisition is costly*\\
+    **Topic:** *DARTS: Targeting prognostic covariates in budget-constrained sequential experiments*\\
     **Advisor:** Alexander Volfovsky
 
+*   **Bass Connections Project**, Duke University, *Fall 2025–Spring 2026*\\
+    **Topic:** *Cash bail reform, serious mental illness, and substance use disorders in a county jail*\\
+    **Faculty lead:** Nicole L. Schramm-Sapyta
+
 *   **Research Assistant**, Duke University, *Spring 2024–Present*\\
-    **Topic:** *Rerandomization with missing data in pre-treatment covariates*\\
+    **Topic:** *Rerandomization with missing data*\\
     **Advisor:** Alexander Volfovsky
 
 *   **MARS Project**, Duke University, *Spring 2024*\\
-    **Topic:** *Measuring the effect of abortive migraine medication exposure on the risk of retinal stroke*\\
+    **Topic:** *Causal effect of migraine medication on retinal stroke risk*\\
     **Investigators:** Jay B. Lusk, Brian Mac Grory, Fan Li, Lauren Wilson, Natalie Smith, Alonso M. Guerrero Castañeda, **Kat Husar**
 
 *   **REU Program**, Texas Tech University, *Summer 2021*\\
@@ -32,14 +36,12 @@ My full CV can be found [here](https://drive.google.com/file/d/15n5XPJSHcfcUGyZO
 
 *   **Knots and Graphs Program**, The Ohio State University, *Summer 2019, Summer 2020*\\
     **Topic:** *Signed posets and a B-symmetric generalization of Stanley’s acyclicity theorem*\\
-    **Advisor:** Sergei Chmutov, *2019*
+    **Advisor:** Sergei Chmutov
  
 ## Teaching
 
-*   **Co-Instructor**
-    - [STA119FS](/teaching/teaching_0_sta119_fa26/) - Statistics as a Way of Thinking: History, Ideas, and Evidence, Duke University, *Fall 2026*
-
 *   **Instructor of Record**
+    - [STA119FS](/teaching/teaching_0_sta119_fa26/) (Co-Instructor) - Statistics as a Way of Thinking: History, Ideas, and Evidence, Duke University, *Fall 2026*
     - [STA101](/teaching/teaching_1_sta101_su24/) - Data Analysis and Statistical Inference, Duke University, *Summer 2024*
     
 *   **Teaching Assistant**
@@ -52,13 +54,23 @@ My full CV can be found [here](https://drive.google.com/file/d/15n5XPJSHcfcUGyZO
     - [MATH1149](/teaching/teaching_3_TAingOSU/) - Trigonometry, The Ohio State University, *Fall 2019*, *Fall 2020–Fall 2021*
     - [CSE3241](/teaching/teaching_3_TAingOSU/) - Introduction to Database Systems, The Ohio State University, *Spring 2020*
     
+*   **[Tutoring](/teaching/teaching_6_tutoring/)**
+    - Academic Tutor, SPIRE Fellows Program, Duke University, *Fall 2024–Spring 2026*
+
 *   **[Mentorship](/teaching/teaching_4_Mentorship/)**
     - Project Manager, [Bass Connections](https://bassconnections.duke.edu/project/mental-health-and-justice-system-durham-county-2025-2026/): Mental Health and the Justice System in Durham County, Duke University, *Fall 2025–Spring 2026*
     - Project Manager, [Data+](https://bigdata.duke.edu/projects/exploring-public-opinion-and-policy/): Exploring Public Opinion and Policy, Duke University, *Summer 2025*
 
-*   **[Fellowship and Certification](/teaching/teaching_5_cct/)**
-    - Duke [Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/) Fellow, *Spring 2026*
-    - [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), Duke University, *In progress*
+*   **[Certifications](/teaching/teaching_5_cct/)**
+    - [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), Duke University, *Ongoing*
+
+## Fellowships
+
+*   **Jo Rae Wright Fellowship for Outstanding Women in Science**, *2026–2027*
+    - Awarded annually to two women Ph.D. students at Duke, one in the biomedical sciences and one in the natural sciences.
+
+*   **[Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/) Fellow**, *Spring 2026*
+    - Selected as a Fellow for a semester-long program at Duke's Kenan Institute for Ethics on the aims and practice of undergraduate teaching.
 
 ## Services
 *   **Graduate Consultative Committee (GCC)**, Duke University: Department of Statistical Science, *September 2022–Present*

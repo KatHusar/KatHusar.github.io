@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD candidate in the Statistical Science Department at [Duke University](https://stat.duke.edu/), advised by Professor [Alex Volfovsky](https://volfovsky.github.io/).
+I am a fifth-year PhD candidate in the Statistical Science Department at [Duke University](https://stat.duke.edu/), advised by Professor [Alex Volfovsky](https://volfovsky.github.io/).
 
 My primary research interests lie in Causal Inference, specifically focusing on advanced experimental design. I investigate the use of rerandomization techniques to enhance the efficiency and precision of treatment effect estimators. Prior to my graduate studies, I completed a Dual Bachelor of Science degree in Mathematics and Data Analytics from The Ohio State University.
 
