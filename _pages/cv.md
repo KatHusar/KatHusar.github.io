@@ -68,10 +68,13 @@ My full CV can be found [here](https://drive.google.com/file/d/15n5XPJSHcfcUGyZO
 *   **[Certifications](/teaching/teaching_5_cct/)**
     - [Certificate in College Teaching](https://gradschool.duke.edu/professional-development/programs/certificate-college-teaching/), Duke University, *Ongoing*
 
-## Fellowships
+## Fellowships and Awards
 
 *   **Jo Rae Wright Fellowship for Outstanding Women in Science**, *2026–2027*
     - Awarded annually to two women Ph.D. students at Duke, one in the biomedical sciences and one in the natural sciences.
+
+*   **[Outstanding Mentor of Undergraduate Researchers](https://stat.duke.edu/outstanding-mentor-undergraduate-researchers)**, *May 2026*
+    - Awarded annually by the Duke Department of Statistical Science to a doctoral student or postdoctoral scholar for mentorship of undergraduate researchers.
 
 *   **[Teaching on Purpose](https://kenan.ethics.duke.edu/teaching-on-purpose/) Fellow**, *Spring 2026*
     - Selected as a Fellow for a semester-long program at Duke's Kenan Institute for Ethics on the aims and practice of undergraduate teaching.
