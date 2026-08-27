@@ -36,7 +36,7 @@ author_profile: true
 
 -   **Bass Connections Project**, Duke University, *Fall 2025–Spring 2026*\\
     **Topic:** *Cash bail reform, serious mental illness, and substance use disorders in a county jail*\\
-    **Faculty lead:** Nicole L. Schramm-Sapyta
+    **Faculty leads:** Nicole L. Schramm-Sapyta, Maria Tackett
 
     -   First author on a study of a county cash bail policy change, linking jail detention records to health system data and applying interrupted time series and matched difference-in-differences analyses.
     -   Showed that the reform largely formalized an existing trend toward release on recognizance, and that defendants with co-occurring mental illness and substance use disorders saw significantly higher rebooking rates after release.

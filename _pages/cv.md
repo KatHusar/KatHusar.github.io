@@ -20,7 +20,7 @@ My full CV can be found [here](https://drive.google.com/file/d/15n5XPJSHcfcUGyZO
 
 *   **Bass Connections Project**, Duke University, *Fall 2025–Spring 2026*\\
     **Topic:** *Cash bail reform, serious mental illness, and substance use disorders in a county jail*\\
-    **Faculty lead:** Nicole L. Schramm-Sapyta
+    **Faculty leads:** Nicole L. Schramm-Sapyta, Maria Tackett
 
 *   **Research Assistant**, Duke University, *Spring 2024–Present*\\
     **Topic:** *Rerandomization with missing data*\\
