@@ -11,8 +11,8 @@ Students often treat an unfamiliar programming language as a barrier rather than
 
  * Interactive slides from the session.
  * A demo lesson module illustrating the approach.
- * A "Your Turn" activity for hands-on practice.
- * An appendix of additional materials.
+ * The "Your Turn" prompt that framed the breakout room discussion.
+ * An appendix of further things to try, there to steer the group discussion or offer ideas to rooms that wanted them.
 
 <div style="position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; margin-bottom: 1em;">
   <iframe 
