@@ -111,7 +111,7 @@ My full CV can be found [here](https://drive.google.com/file/d/15n5XPJSHcfcUGyZO
     - President from September 2024
     - Collaborate with DGS to manage academic and personal needs of >50 PhD students.
     - Assist with Admitted Students Open House events to welcome prospective students.
-    - Spearheaded department social and community events such as the Winter Party, Ping-Pong Tournament, and other department gatherings.
+    - Organized department social and community events such as the Winter Party, Ping-Pong Tournament, and other department gatherings.
 
 *   **Duke Statsci Alumni Advisory Council Member**, Duke University: Department of Statistical Science, *September 2025–Present*
     - Collaborate with alumni to ensure programming meets student needs

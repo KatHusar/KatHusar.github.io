@@ -3,8 +3,6 @@ title: "Tutoring"
 collection: teaching
 order: 6
 summary: "Academic Tutor, SPIRE Fellows Program, Duke University, Fall 2024 – Spring 2026"
-summary_list:
-  - "SPIRE Fellows Program, Duke University (Fall 2024 – Spring 2026)"
 ---
 
 ### SPIRE Fellows Program
