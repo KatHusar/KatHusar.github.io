@@ -1,8 +1,9 @@
 ---
 title: "Teaching Statement"
 excerpt: "Current iteration of my teaching philosophy statement is available here"
-collection: portfolio
-order: 4
+collection: teaching
+published: false   # draft: not rendered on the site yet
+order: 0           # renumber the other teaching_N files when this goes live
 ---
 
 You can access my Teaching Statement [here](https://docs.google.com/document/d/10V_l4qi5knxS2cQKT5XSSO0sXZBnfiQE41FPcdlyARo/edit?usp=sharing).

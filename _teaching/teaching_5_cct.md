@@ -10,4 +10,3 @@ summary_list:
 
 - Completed Teaching and Observation Requirements.
 - Completed Course Requirements.
-- You can access my Teaching Statement [here](https://docs.google.com/document/d/10V_l4qi5knxS2cQKT5XSSO0sXZBnfiQE41FPcdlyARo/edit?usp=sharing).
