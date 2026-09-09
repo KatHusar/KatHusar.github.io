@@ -11,9 +11,9 @@ summary_list:
 ### [Bass Connections: Mental Health and the Justice System in Durham County](https://bassconnections.duke.edu/project/mental-health-and-justice-system-durham-county-2025-2026/)
 _Fall 2025 - Spring 2026_
 
-- Direct students in incorporating and cleaning messy, real-world data from the  Durham County Detention Facility and Duke Health.
-- Lead the team of 3 students in selecting and applying appropriate quantitative methods to rigorously evaluate the effectiveness and overall success of the Detention Facility's intervention programs in preventing rearrest.
-- Coach the team on translating complex statistical findings into clear, non-technical insights that are directly actionable for the Durham County Detention Facility and other community criminal justice partners.
+- Directed students in incorporating and cleaning messy, real-world data from the Durham County Detention Facility and Duke Health.
+- Led the team of 3 students in selecting and applying appropriate quantitative methods to rigorously evaluate the effectiveness and overall success of the Detention Facility's intervention programs in preventing rearrest.
+- Coached the team on translating complex statistical findings into clear, non-technical insights that are directly actionable for the Durham County Detention Facility and other community criminal justice partners.
 
 ---
 
