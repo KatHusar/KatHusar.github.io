@@ -1,0 +1,17 @@
+---
+layout: archive
+title: "Resources"
+permalink: /resources/
+redirect_from:
+  - /portfolio/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% assign resources = site.resources | sort: "order" %}
+{% for post in resources %}
+  {% include archive-single.html %}
+{% endfor %}
+

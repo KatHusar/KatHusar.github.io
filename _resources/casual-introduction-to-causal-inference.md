@@ -1,8 +1,10 @@
 ---
 title: "Casual Introduction to Causal Inference"
 excerpt: "A short asynchronous lesson designed for GS750: Fundamentals of College Teaching"
-collection: portfolio
+collection: resources
 order: 2
+redirect_from:
+  - /portfolio/portfolio-1/
 ---
 
 

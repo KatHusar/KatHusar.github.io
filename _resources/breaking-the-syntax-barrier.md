@@ -1,8 +1,10 @@
 ---
 title: "Breaking the Syntax Barrier"
 excerpt: "Materials from our eCOTS 2026 breakout session on helping students code in any language"
-collection: portfolio
+collection: resources
 order: 1
+redirect_from:
+  - /portfolio/portfolio-4/
 ---
 
 This is the companion site for **Breaking the Syntax Barrier: Empowering Students to Code in Any Language**, a breakout session presented with [Marie Neubrander](https://mneubrander.github.io/) at the **Electronic Conference on Teaching Statistics (eCOTS) 2026**.

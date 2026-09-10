@@ -1,8 +1,10 @@
 ---
 title: "Bass Connections Summer Exercises"
 excerpt: "A webpage designed for my Bass Connections team to practice skills in R as a preparation for the program."
-collection: portfolio
+collection: resources
 order: 3
+redirect_from:
+  - /portfolio/portfolio-2/
 ---
 
 This project addresses a common barrier in introductory data science by providing a **zero-setup**, **web-based** environment for students. 
