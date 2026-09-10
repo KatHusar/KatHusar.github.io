@@ -1,14 +1,42 @@
 {% include base_path %}
 
-{% if page.previous or page.next %}
+{% comment %}
+  Jekyll derives page.previous / page.next from document order, which for
+  dateless collection documents is alphabetical by filename. Collections that
+  carry an explicit `order` field are listed by that field on their index pages,
+  so read the pager off the same sorted list to keep the two in step. Anything
+  without an `order` (posts, talks, publications) keeps Jekyll's default.
+{% endcomment %}
+{% assign pager_previous = page.previous %}
+{% assign pager_next = page.next %}
+
+{% if page.collection and page.order %}
+  {% assign ordered_docs = site[page.collection] | sort: "order" %}
+  {% assign pager_previous = false %}
+  {% assign pager_next = false %}
+  {% for doc in ordered_docs %}
+    {% if doc.url == page.url %}
+      {% unless forloop.first %}
+        {% assign prev_index = forloop.index0 | minus: 1 %}
+        {% assign pager_previous = ordered_docs[prev_index] %}
+      {% endunless %}
+      {% unless forloop.last %}
+        {% assign next_index = forloop.index0 | plus: 1 %}
+        {% assign pager_next = ordered_docs[next_index] %}
+      {% endunless %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if pager_previous or pager_next %}
   <nav class="pagination">
-    {% if page.previous %}
-      <a href="{{ base_path }}{{ page.previous.url }}" class="pagination--pager" title="{{ page.previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
+    {% if pager_previous %}
+      <a href="{{ base_path }}{{ pager_previous.url }}" class="pagination--pager" title="{{ pager_previous.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
     {% else %}
       <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_previous | default: "Previous" }}</a>
     {% endif %}
-    {% if page.next %}
-      <a href="{{ base_path }}{{ page.next.url }}" class="pagination--pager" title="{{ page.next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
+    {% if pager_next %}
+      <a href="{{ base_path }}{{ pager_next.url }}" class="pagination--pager" title="{{ pager_next.title | markdownify | strip_html }}">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
     {% else %}
       <a href="#" class="pagination--pager disabled">{{ site.data.ui-text[site.locale].pagination_next | default: "Next" }}</a>
     {% endif %}
