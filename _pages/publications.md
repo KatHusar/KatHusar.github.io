@@ -11,7 +11,7 @@ author_profile: true
 
 -   **Husar, K.**, Pittman, D. C., Rajala, J., Mostafa, F., & Allen, L. J. (2024). Lyme Disease Models of Tick-Mouse Dynamics with Seasonal Variation in Births, Deaths, and Tick Feeding. *Bulletin of Mathematical Biology, 86*(3), 1-38, [Link](https://pubmed.ncbi.nlm.nih.gov/38294562/).
 
--   **Husar, K.**, Volfovsky, A. (2026). DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments. *Under review.* [arXiv:2605.06608](https://arxiv.org/abs/2605.06608).
+-   **Husar, K.**, Volfovsky, A. (2026). DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments. *Accepted at NeurIPS 2026.* [arXiv:2605.06608](https://arxiv.org/abs/2605.06608).
 
 -   **Husar, K.**, Pandey, M., Larsen, I. G., Pliego San Martin, J., Purohit, S., Hamelsky, J., Tang, B., Tackett, M., & Schramm-Sapyta, N. L. The Intersection of Cash Bail Reform, Serious Mental Illness, and Substance Use Disorders in a Southern County Jail. *Under review.*
 

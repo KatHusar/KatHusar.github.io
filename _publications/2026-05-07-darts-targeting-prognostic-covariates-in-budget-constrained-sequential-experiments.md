@@ -5,7 +5,7 @@ category: preprints
 permalink: /publication/darts-targeting-prognostic-covariates-in-budget-constrained-sequential-experiments
 excerpt: 'A sequential covariate-acquisition strategy for budget-constrained randomized experiments.'
 date: 2026-05-07
-venue: 'Under review'
+venue: 'Accepted at NeurIPS 2026.'
 paperurl: 'https://arxiv.org/abs/2605.06608'
 citation: 'Husar, K., & Volfovsky, A. (2026). &quot;DARTS: Targeting Prognostic Covariates in Budget-Constrained Sequential Experiments.&quot; arXiv:2605.06608. Under review.'
 ---
