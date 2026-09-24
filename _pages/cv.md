@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-My full CV can be found [here](https://drive.google.com/file/d/1ER4zYmmykzlOr3U7jiEymzLr5fW56MgP/view?usp=sharing).
+My full CV can be found [here](https://drive.google.com/file/d/1hyHJtsoszy8_sKOAuLJMGtjqzdrGlmIs/view?usp=sharing).
 
 ## Education
 * PhD, Duke University, *Expected May 2027*\\
